@@ -203,3 +203,18 @@ appointment-search{
     color: #535353;
     margin-right: 10px;
 }
+.appo-search-box input{
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+.appointment-search button{
+    background-color: #014dd5;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
