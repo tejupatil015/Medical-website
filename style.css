@@ -166,3 +166,21 @@ ul {
     font-size: 0.5rem;
     padding-bottom: 1px;
 }
+/*==appointment-search=====================*/
+.appointment-search-container{
+    max-width: 1000px;
+    width: 90%;
+    background-color: #ffffff;
+    padding:20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 16px 30px rgba(0,0,0,0.12);
+    margin-top: -60px;
+    z-index: 3;
+    position: relative;
+}
+.appointment-search-container h3{
+    color: #122853;
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
