@@ -134,3 +134,35 @@ ul {
     letter-spacing: 0.3px;
     line-height: 1.8rem;
 }
+.hero-text-btns{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.hero-text-btns a{
+    height: 45px;
+    padding: 0px 15px;
+    background-color: #122853;
+    color: #ffffff;
+    border-radius: 4px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+}
+.hero-text-btns a i{
+    width: 18px;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #014dd5;
+    margin-right: 8px;
+    color: #ffffff;
+    font-size: 0.5rem;
+    padding-bottom: 1px;
+}
