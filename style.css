@@ -237,26 +237,29 @@ appointment-search {
   font-size: 1.1rem;
   cursor: pointer;
 }
+
 /*==what-we-provide===============*/
-.what-we-provide{
-    max-width: 1200px;
-    width: 90%;
-    margin: 50px auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+.what-we-provide {
+  max-width: 1200px;
+  width: 90%;
+  margin: 50px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
-.w-info-box{
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+
+.w-info-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
-.w-info-icon{
-    width: 60px;
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    margin-right: 15px;
-    font-size: 1.4rem;
+
+.w-info-icon {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-right: 15px;
+  font-size: 1.4rem;
 }
