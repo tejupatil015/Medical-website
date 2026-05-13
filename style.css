@@ -311,31 +311,5 @@ appointment-search {
     object-fit: cover;
     object-position: center;
 }
-.story-play-btn{
-    position: absolute;
-    left: 10px;
-    top: 0px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #dd3f3f;
-    padding: 20px 10px;
-    border-radius: 4px 4px 10px 10px;
-    color: #ffffff;
-    font-size: 0.6rem;
-    text-transform: uppercase;
-    font-weight: 500;
-}
-.story-play-btn i{
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    background-color: #aa2f0a;
-    color: #ffffff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 10px;
-}
+
 
