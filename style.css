@@ -449,3 +449,22 @@ appointment-search {
     font-weight: 800;
     color: #122853;
 }
+
+.services-box-container{
+    max-width: 1200px;
+    width: 90%;
+    margin: 40px auto;
+    overflow: hidden;
+}
+.service-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 100%;/*350px*/
+    border: 5px solid #ffffff;
+    padding: 30px;
+}
+.service-box:hover{
+    border: 5px solid #c7d0eb;
+}
