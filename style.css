@@ -468,3 +468,28 @@ appointment-search {
 .service-box:hover{
     border: 5px solid #c7d0eb;
 }
+
+.service-box i{
+    font-size: 2rem;
+    color: #122853;
+    width: 60px;
+    height: 60px;
+    border-radius:5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.service-box strong{
+    color: #122853;
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
+.service-box p{
+    font-size: 0.9rem;
+    line-height: 1.4rem;
+    color:#122853;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;  
+}
