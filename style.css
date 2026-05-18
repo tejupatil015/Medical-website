@@ -702,13 +702,3 @@ appointment-search {
   flex-direction: column;
 }
 
-.w-right-contact-box-text span {
-  color: #e4e4e4;
-  font-size: 0.7rem;
-}
-
-.w-right-contact-box-text strong {
-  font-size: 1rem;
-  color: #ffffff;
-  font-weight: 600;
-}
