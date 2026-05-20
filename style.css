@@ -885,3 +885,27 @@ appointment-search {
 .swiper-pagination{
    position: static !important;
 }
+
+
+
+/*==subscribe=====================*/
+#subscribe{
+    max-width: 1000px;
+    width: 90%;
+    background-color:#174dac;
+    padding: 50px;  
+    border-radius: 10px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#subscribe h3{
+    font-size: 2.6rem;
+    color: #ffffff;
+    font-weight: 600;
+    line-height: 3.4rem;
+    max-width:600px;
+    text-align: center;
+}
