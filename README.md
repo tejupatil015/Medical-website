@@ -73,12 +73,9 @@ The website is fully responsive and adapts seamlessly to:
 
 
 
-## 🔗 Live Demo
+Live Demo  : https://tejupatil015.github.io/Medical-website/
 
-Add your deployed website link here.
 
-## 💻 Installation
-
-1. Clone the repository:https://github.com/tejupatil015/Medical-website
+ Clone the repository:https://github.com/tejupatil015/Medical-website
 
 
