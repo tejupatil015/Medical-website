@@ -79,6 +79,6 @@ Add your deployed website link here.
 
 ## 💻 Installation
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/tejupatil015/Medical-website
 
 
