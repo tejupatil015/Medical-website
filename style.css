@@ -1295,6 +1295,8 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+
 @media(max-width:320px){
     .nav-appointment-btn{
         display: none;
